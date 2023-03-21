@@ -7,11 +7,13 @@ zhiyuanz5 at student.unimelb.edu.au
 Security, Cryptography, Chinese Classical Culture ( *casual research ;)* )
 
 ## Education
-- *Bachelor of Computer Science (Advanced)* at University of Adelaide (2018 ~ 2020)  
+- *Doctor of Philosophy* at University of Melbourne (2022 ~ Current)  
+*Supervised by Dr. Chitchanok Chuengsatiansup, A.P Toby Murray and A.P. Yuval Yarom*
 - *Master of Philosophy* (Discontinued) at University of Adelaide (2021 ~ 2022)  
 *Supervised by A.P. Yuval Yarom and Dr. Chitchanok Chuengsatiansup*
-- *Doctor of Philosophy* at University of Melbourne (2022 ~ Current)  
-*Supervised by Dr. Chitchanok Chuengsatiansup, A.P Tobby Murray and A.P. Yuval Yarom*
+- *Bachelor of Computer Science (Advanced)* at University of Adelaide (2018 ~ 2020)  
+
+
 
 ## Publication
 ### 2023
