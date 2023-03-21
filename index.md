@@ -21,7 +21,7 @@ Security, Cryptography, Chinese Classical Culture ( *casual research ;)* )
 - **Zhiyuan Zhang**, Mingtian Tao, Sioli O'Connell, Chitchanok Chuengsatiansup, Daniel Genkin and Yuval Yarom, *BunnyHop: Exploiting the Instruction Prefetcher*, **USENIX Security**, Aug 2023
 
 ### 2022
-- Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom and **Zhiyuan Zhang**, *Side-Channeling the Kalyna Key Expansion*, **CT-RSA**, Feb 2022
+- Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom and **Zhiyuan Zhang**, *Side-Channeling the Kalyna Key Expansion*, **CT-RSA**, Feb 2022 ([paper](/publication/kalyna.pdf))
 
 ## Service
 - **USENIX AE** 2022, 2023
