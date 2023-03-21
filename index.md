@@ -1,5 +1,4 @@
 # Zhiyuan Zhang
-<img src="https://github.com/Neo-Outis/neo-outis.github.io/blob/main/images/zzy.jpg" width = "300" height = "300" alt="photo" align=center />
 
 ## Contact
 zhiyuanz5 at student.unimelb.edu.au
