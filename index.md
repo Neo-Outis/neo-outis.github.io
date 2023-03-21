@@ -1,4 +1,7 @@
-# Zhiyuan Zhang
+---
+layout: default
+title: "About"
+---
 
 ## Contact
 zhiyuanz5 at student.unimelb.edu.au
