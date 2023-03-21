@@ -1,5 +1,5 @@
 ---
-layout: ZZY
+layout: Default
 title: "About"
 ---
 
