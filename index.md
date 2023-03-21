@@ -17,7 +17,7 @@ Security, Cryptography, Chinese Classical Culture ( *casual research ;)* )
 
 ## Publication
 ### 2023
-- **Zhiyuan Zhang**, Gilles Barthe, Chitchanok Chuengsatiansup, Peter Schwabe and Yuval Yarom, *Ultimate SLH: Taking Speculative Load Hardening to the Next Level*, **USENIX Security**, Aug 2023
+- **Zhiyuan Zhang**, Gilles Barthe, Chitchanok Chuengsatiansup, Peter Schwabe and Yuval Yarom, *Ultimate SLH: Taking Speculative Load Hardening to the Next Level*, **USENIX Security**, Aug 2023 ([paper](/publication/uslh.pdf))
 - **Zhiyuan Zhang**, Mingtian Tao, Sioli O'Connell, Chitchanok Chuengsatiansup, Daniel Genkin and Yuval Yarom, *BunnyHop: Exploiting the Instruction Prefetcher*, **USENIX Security**, Aug 2023
 
 ### 2022
