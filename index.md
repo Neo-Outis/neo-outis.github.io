@@ -7,7 +7,8 @@ title: "About"
 zhiyuanz5 at student.unimelb.edu.au
 
 ## Research Interest
-Security, Cryptography, Chinese Classical Culture ( *casual research ;)* )
+Security, Cryptography, Chinese Classical Culture ( *casual research ;)* )  
+[Google Scholar](https://scholar.google.com.au/citations?user=Gkr_oXsAAAAJ&hl=en&oi=sra)
 
 ## Education
 - *Doctor of Philosophy* at University of Melbourne (2022 ~ Present)  
